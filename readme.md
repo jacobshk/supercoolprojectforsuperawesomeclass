@@ -1,3 +1,8 @@
+website: https://jacobshk.github.io/supercoolprojectforsuperawesomeclass/
+
+repo: https://github.com/jacobshk/supercoolprojectforsuperawesomeclass
+
+
 used these docs: https://developer.mozilla.org/en-US/docs/Web/CSS/background-image
 
 cool: https://blog.artsper.com/wp-content/uploads/2022/03/New-Featured-Image-1200-x-675.jpg
