@@ -1,3 +1,13 @@
 #nav {
     float: right;
 }
+
+body {
+    background: orange;
+    background-image: url("./assets/backgroud.jpg");
+    background-size: 20vw;
+}
+div {
+    background:red;
+    color: white
+}
